@@ -1,3 +1,8 @@
+# Bug shooting by d4rkb1ue
+
+- For iTerm 3.0 and Alfred 3.3 you shoule also toggle on the iTerm2 -> Settings -> Gernel -> Selection -> Applications in Terminal may access the clipboard or the iTerm2 will be called on for no command.
+
+
 # custom-iterm-applescripts-for-alfred
 Unfortunately as many people will know, when iTerm's Applescript functionality changes it can often break integration with Alfred
 
